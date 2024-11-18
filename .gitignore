@@ -1,5 +1,7 @@
 # static 
-static/uploads
+static/uploads/logos/*
+static/uploads/original/*
+static/uploads/processed/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
